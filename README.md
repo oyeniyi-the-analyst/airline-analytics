@@ -39,6 +39,8 @@ The results were visualised in Power BI to create dashboards that provide a clea
 ### Airline Dashboard
 (please see attached power BI dashboard screenshots in airline-analytics folder).
 
+![Executive Dashboard](https://github.com/oyeniyi-the-analyst/Airline_Data_Analytics/blob/main/dashboard_images/Executive_overview_dashboard.png?raw=true)
+
 ---
 
 ## Data Workflow
